@@ -1,0 +1,21 @@
+<tabs>
+    <tab
+         icon="@drawable/ic_home"
+         id="@+id/jumbo_now"
+         title="inicio"/>
+    <tab
+        icon="@drawable/ic_productos"
+        id="@+id/catalog"
+        title="tiendas"/>
+
+    <tab
+        icon="@drawable/ic_mis_listas"
+        id="@+id/my_lists"
+        title="listas"/>
+
+    <tab
+        icon="@drawable/ic_mi_cuenta"
+        id="@+id/my_profile"
+        title="mi cuenta"/>
+
+</tabs>
