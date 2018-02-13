@@ -33,7 +33,7 @@ ext {
     buildToolsVersion = '26.0.2'
     supportLibVersion = '26.0.1'
     playServiceVersion = '11.0.4'
-    gsonVersion = '2.7'
+    gsonVersion = '2.8.2'
     runnerVersion = "0.5"
     rulesVersion = "0.5"
     espressoVersion = "2.2.2"
